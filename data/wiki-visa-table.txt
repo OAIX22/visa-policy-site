@@ -1,0 +1,195 @@
+| Country / Region | Visa requirement | Allowed stay | Notes (excluding departure fees) | Rec­i­proc­i­ty |
+| --- | --- | --- | --- | --- |
+| [Afghanistan](https://en.wikipedia.org/wiki/Afghanistan) | eVisa | 30 days |
+| [Albania](https://en.wikipedia.org/wiki/Albania) | Visa not required | 90 days |
+| [Algeria](https://en.wikipedia.org/wiki/Algeria) | Visa required |
+| [Andorra](https://en.wikipedia.org/wiki/Andorra) | Visa not required |
+| [Angola](https://en.wikipedia.org/wiki/Angola) | Visa not required | 30 days |
+| [Antigua and Barbuda](https://en.wikipedia.org/wiki/Antigua_and_Barbuda) | Visa not required | 30 days |
+| [Argentina](https://en.wikipedia.org/wiki/Argentina) | Visa required |
+| [Armenia](https://en.wikipedia.org/wiki/Armenia) | Visa not required | 90 days |
+| [Australia](https://en.wikipedia.org/wiki/Australia) | Online Visa required |
+| [Austria](https://en.wikipedia.org/wiki/Austria) | Visa required |
+| [Azerbaijan](https://en.wikipedia.org/wiki/Azerbaijan) | Visa not required | 30 days |
+| [Bahamas](https://en.wikipedia.org/wiki/The_Bahamas) | Visa not required | 3 months |
+| [Bahrain](https://en.wikipedia.org/wiki/Bahrain) | eVisa / Visa on arrival | 14 days |
+| [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh) | Visa on arrival | 30 days. |
+| [Barbados](https://en.wikipedia.org/wiki/Barbados) | Visa not required | 30 days |
+| [Belarus](https://en.wikipedia.org/wiki/Belarus) | Visa not required | 30 days |
+| [Belgium](https://en.wikipedia.org/wiki/Belgium) | Visa required |
+| [Belize](https://en.wikipedia.org/wiki/Belize) | Visa required |
+| [Benin](https://en.wikipedia.org/wiki/Benin) | Visa not required | 30 days |
+| [Bhutan](https://en.wikipedia.org/wiki/Bhutan) | eVisa |
+| [Bolivia](https://en.wikipedia.org/wiki/Bolivia) | Visa required |
+| [Bosnia and Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina) | Visa not required | 90 days |
+| [Botswana](https://en.wikipedia.org/wiki/Botswana) | eVisa | 3 months |
+| [Brazil](https://en.wikipedia.org/wiki/Brazil) | Visa required | 30 days |
+| [Brunei](https://en.wikipedia.org/wiki/Brunei) | Visa not required | 14 days |
+| [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria) | Visa required |
+| [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso) | eVisa |
+| [Burundi](https://en.wikipedia.org/wiki/Burundi) | Online Visa / Visa on arrival | 1 month |
+| [Cambodia](https://en.wikipedia.org/wiki/Cambodia) | eVisa / Visa on arrival | 30 days |
+| [Cameroon](https://en.wikipedia.org/wiki/Cameroon) | eVisa |
+| [Canada](https://en.wikipedia.org/wiki/Canada) | Visa required |
+| [Cape Verde](https://en.wikipedia.org/wiki/Cape_Verde) | Visa on arrival | 30 days |
+| [Central African Republic](https://en.wikipedia.org/wiki/Central_African_Republic) | Visa required |
+| [Chad](https://en.wikipedia.org/wiki/Chad) | eVisa |
+| [Chile](https://en.wikipedia.org/wiki/Chile) | Visa required |
+| [Colombia](https://en.wikipedia.org/wiki/Colombia) | Online Visa |
+| [Comoros](https://en.wikipedia.org/wiki/Comoros) | Visa on arrival | 45 days |
+| [Republic of the Congo](https://en.wikipedia.org/wiki/Republic_of_the_Congo) | Visa required |
+| [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo) | eVisa | 7 days |
+| [Costa Rica](https://en.wikipedia.org/wiki/Costa_Rica) | Visa required |
+| [Côte d'Ivoire](https://en.wikipedia.org/wiki/Ivory_Coast) | eVisa | 3 months |
+| [Croatia](https://en.wikipedia.org/wiki/Croatia) | Visa required |
+| [Cuba](https://en.wikipedia.org/wiki/Cuba) | Visa not required | 90 days |
+| [Cyprus](https://en.wikipedia.org/wiki/Cyprus) | Visa required |
+| [Czech Republic](https://en.wikipedia.org/wiki/Czech_Republic) | Visa required |
+| [Denmark](https://en.wikipedia.org/wiki/Denmark) | Visa required |
+| [Djibouti](https://en.wikipedia.org/wiki/Djibouti) | eVisa | 90 days |
+| [Dominica](https://en.wikipedia.org/wiki/Dominica) | Visa not required | 30 days |
+| [Dominican Republic](https://en.wikipedia.org/wiki/Dominican_Republic) | Visa required |
+| [Ecuador](https://en.wikipedia.org/wiki/Ecuador) | eVisa |
+| [Egypt](https://en.wikipedia.org/wiki/Egypt) | eVisa / Visa on arrival | 30 days |
+| [El Salvador](https://en.wikipedia.org/wiki/El_Salvador) | Visa required |
+| [Equatorial Guinea](https://en.wikipedia.org/wiki/Equatorial_Guinea) | eVisa |
+| [Eritrea](https://en.wikipedia.org/wiki/Eritrea) | Visa required |
+| [Estonia](https://en.wikipedia.org/wiki/Estonia) | Visa required |
+| [Eswatini](https://en.wikipedia.org/wiki/Eswatini) | Visa required |
+| [Ethiopia](https://en.wikipedia.org/wiki/Ethiopia) | eVisa / Visa on arrival | 90 days |
+| [Fiji](https://en.wikipedia.org/wiki/Fiji) | Visa not required | 4 months |
+| [Finland](https://en.wikipedia.org/wiki/Finland) | Visa required |
+| [France](https://en.wikipedia.org/wiki/France) | Visa required |
+| [Gabon](https://en.wikipedia.org/wiki/Gabon) | eVisa | 90 days |
+| [Gambia](https://en.wikipedia.org/wiki/The_Gambia) | Visa required |
+| [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) | Visa not required | 30 days |
+| [Germany](https://en.wikipedia.org/wiki/Germany) | Visa required |
+| [Ghana](https://en.wikipedia.org/wiki/Ghana) | Visa required |
+| [Greece](https://en.wikipedia.org/wiki/Greece) | Visa required |
+| [Grenada](https://en.wikipedia.org/wiki/Grenada) | Visa not required | 30 days |
+| [Guatemala](https://en.wikipedia.org/wiki/Guatemala) | Visa required |
+| [Guinea](https://en.wikipedia.org/wiki/Guinea) | eVisa | 90 days |
+| [Guinea-Bissau](https://en.wikipedia.org/wiki/Guinea-Bissau) | Visa on arrival | 90 days |
+| [Guyana](https://en.wikipedia.org/wiki/Guyana) | eVisa |
+| [Haiti](https://en.wikipedia.org/wiki/Haiti) | Visa not required | 3 months |
+| [Honduras](https://en.wikipedia.org/wiki/Honduras) | Visa required |
+| [Hungary](https://en.wikipedia.org/wiki/Hungary) | Visa required |
+| [Iceland](https://en.wikipedia.org/wiki/Iceland) | Visa required |
+| [India](https://en.wikipedia.org/wiki/India) | Visa required |
+| [Indonesia](https://en.wikipedia.org/wiki/Indonesia) | e-VOA / Visa on arrival | 30 days |
+| [Iran](https://en.wikipedia.org/wiki/Iran) | Visa not required | 21 days |
+| [Iraq](https://en.wikipedia.org/wiki/Iraq) | eVisa | 30 days |
+| [Ireland](https://en.wikipedia.org/wiki/Republic_of_Ireland) | Visa required |
+| [Israel](https://en.wikipedia.org/wiki/Israel) | Visa required |
+| [Italy](https://en.wikipedia.org/wiki/Italy) | Visa required |
+| [Jamaica](https://en.wikipedia.org/wiki/Jamaica) | Visa not required | 30 days |
+| [Japan](https://en.wikipedia.org/wiki/Japan) | eVisa (conditional) |
+| [Jordan](https://en.wikipedia.org/wiki/Jordan) | eVisa / Visa on arrival |
+| [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan) | Visa not required | 30 days |
+| [Kenya](https://en.wikipedia.org/wiki/Kenya) | Electronic Travel Authorisation | 90 days |
+| [Kiribati](https://en.wikipedia.org/wiki/Kiribati) | Visa not required | 90 days |
+| [North Korea](https://en.wikipedia.org/wiki/North_Korea) | Visa required |
+| [South Korea](https://en.wikipedia.org/wiki/South_Korea) | Online Visa required |
+| [Kuwait](https://en.wikipedia.org/wiki/Kuwait) | Visa required |
+| [Kyrgyzstan](https://en.wikipedia.org/wiki/Kyrgyzstan) | Visa not required (conditional) / eVisa | 21 days / 60 days |
+| [Laos](https://en.wikipedia.org/wiki/Laos) | eVisa / Visa on arrival | 30 days |
+| [Latvia](https://en.wikipedia.org/wiki/Latvia) | Visa required |
+| [Lebanon](https://en.wikipedia.org/wiki/Lebanon) | Free visa on arrival | 1 month |
+| [Lesotho](https://en.wikipedia.org/wiki/Lesotho) | eVisa |
+| [Liberia](https://en.wikipedia.org/wiki/Liberia) | Visa required |
+| [Libya](https://en.wikipedia.org/wiki/Libya) | eVisa |
+| [Liechtenstein](https://en.wikipedia.org/wiki/Liechtenstein) | Visa required |
+| [Lithuania](https://en.wikipedia.org/wiki/Lithuania) | Visa required |
+| [Luxembourg](https://en.wikipedia.org/wiki/Luxembourg) | Visa required |
+| [Madagascar](https://en.wikipedia.org/wiki/Madagascar) | Online Visa / Visa on arrival | 60 days |
+| [Malawi](https://en.wikipedia.org/wiki/Malawi) | eVisa | 30 days |
+| [Malaysia](https://en.wikipedia.org/wiki/Malaysia) | Visa not required | 30 days |
+| [Maldives](https://en.wikipedia.org/wiki/Maldives) | Visa not required | 30 days |
+| [Mali](https://en.wikipedia.org/wiki/Mali) | Visa required |
+| [Malta](https://en.wikipedia.org/wiki/Malta) | Visa required |
+| [Marshall Islands](https://en.wikipedia.org/wiki/Marshall_Islands) | Visa required |
+| [Mauritania](https://en.wikipedia.org/wiki/Mauritania) | eVisa |
+| [Mauritius](https://en.wikipedia.org/wiki/Mauritius) | Visa not required | 90 days |
+| [Mexico](https://en.wikipedia.org/wiki/Mexico) | Visa required |
+| [Micronesia](https://en.wikipedia.org/wiki/Federated_States_of_Micronesia) | Visa not required | 30 days |
+| [Moldova](https://en.wikipedia.org/wiki/Moldova) | eVisa |
+| [Monaco](https://en.wikipedia.org/wiki/Monaco) | Visa required |
+| [Mongolia](https://en.wikipedia.org/wiki/Mongolia) | eVisa | 30 days |
+| [Montenegro](https://en.wikipedia.org/wiki/Montenegro) | Visa required |
+| [Morocco](https://en.wikipedia.org/wiki/Morocco) | Visa not required | 90 days |
+| [Mozambique](https://en.wikipedia.org/wiki/Mozambique) | Electronic Travel Authorization | 30 days |
+| [Myanmar](https://en.wikipedia.org/wiki/Myanmar) | eVisa / Visa on arrival | 28 days |
+| [Namibia](https://en.wikipedia.org/wiki/Namibia) | eVisa | 3 months |
+| [Nauru](https://en.wikipedia.org/wiki/Nauru) | Visa on arrival | 90 days |
+| [Nepal](https://en.wikipedia.org/wiki/Nepal) | Online Visa / Free visa on arrival | 90 days |
+| [Netherlands](https://en.wikipedia.org/wiki/Netherlands) | Visa required |
+| [New Zealand](https://en.wikipedia.org/wiki/New_Zealand) | Online Visa required |
+| [Nicaragua](https://en.wikipedia.org/wiki/Nicaragua) | Visa required |
+| [Niger](https://en.wikipedia.org/wiki/Niger) | Visa required |
+| [Nigeria](https://en.wikipedia.org/wiki/Nigeria) | eVisa | 90 days |
+| [North Macedonia](https://en.wikipedia.org/wiki/North_Macedonia) | Visa required |
+| [Norway](https://en.wikipedia.org/wiki/Norway) | Visa required |
+| [Oman](https://en.wikipedia.org/wiki/Oman) | Visa not required / eVisa | 14 days / 30 days |
+| [Pakistan](https://en.wikipedia.org/wiki/Pakistan) | Free eVisa | 90 days |
+| [Palau](https://en.wikipedia.org/wiki/Palau) | Free visa on arrival | 30 days |
+| [Panama](https://en.wikipedia.org/wiki/Panama) | Visa required |
+| [Papua New Guinea](https://en.wikipedia.org/wiki/Papua_New_Guinea) | eVisa | 30 days |
+| [Paraguay](https://en.wikipedia.org/wiki/Paraguay) | Visa required |
+| [Peru](https://en.wikipedia.org/wiki/Peru) | Visa required |
+| [Philippines](https://en.wikipedia.org/wiki/Philippines) | Visa not required | 14 days |
+| [Poland](https://en.wikipedia.org/wiki/Poland) | Visa required |
+| [Portugal](https://en.wikipedia.org/wiki/Portugal) | Visa required |
+| [Qatar](https://en.wikipedia.org/wiki/Qatar) | Visa not required | 30 days |
+| [Romania](https://en.wikipedia.org/wiki/Romania) | Visa required |
+| [Russia](https://en.wikipedia.org/wiki/Russia) | Visa not required | 30 days |
+| [Rwanda](https://en.wikipedia.org/wiki/Rwanda) | eVisa / Visa on arrival | 30 days |
+| [Saint Kitts and Nevis](https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis) | Electronic Travel Authorisation | 3 months |
+| [Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) | Visa not required | 6 weeks |
+| [Saint Vincent and the Grenadines](https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines) | Visa required |
+| [Samoa](https://en.wikipedia.org/wiki/Samoa) | Visa not required | 30 days |
+| [San Marino](https://en.wikipedia.org/wiki/San_Marino) | Visa not required | 90 days. |
+| [São Tomé and Príncipe](https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe) | eVisa / Visa on arrival | 15 days. |
+| [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) | eVisa / Visa on arrival | 90 days |
+| [Senegal](https://en.wikipedia.org/wiki/Senegal) | Visa on arrival | 30 days |
+| [Serbia](https://en.wikipedia.org/wiki/Serbia) | Visa not required | 30 days |
+| [Seychelles](https://en.wikipedia.org/wiki/Seychelles) | Visa not required | 3 months |
+| [Sierra Leone](https://en.wikipedia.org/wiki/Sierra_Leone) | eVisa / Visa on arrival | 3 months / 30 days |
+| [Singapore](https://en.wikipedia.org/wiki/Singapore) | Visa not required | 30 days |
+| [Slovakia](https://en.wikipedia.org/wiki/Slovakia) | Visa required |
+| [Slovenia](https://en.wikipedia.org/wiki/Slovenia) | Visa required |
+| [Solomon Islands](https://en.wikipedia.org/wiki/Solomon_Islands) | Visa not required | 30 days |
+| [Somalia](https://en.wikipedia.org/wiki/Somalia) | eVisa | 30 days |
+| [South Africa](https://en.wikipedia.org/wiki/South_Africa) | Electronic Travel Authorization / eVisa | 90 days |
+| [South Sudan](https://en.wikipedia.org/wiki/South_Sudan) | eVisa |
+| [Spain](https://en.wikipedia.org/wiki/Spain) | Visa required |
+| [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) | Free ETA / Visa on arrival | 30 days |
+| [Sudan](https://en.wikipedia.org/wiki/Sudan) | Visa required |
+| [Suriname](https://en.wikipedia.org/wiki/Suriname) | Visa not required | 30 days |
+| [Sweden](https://en.wikipedia.org/wiki/Sweden) | Visa required |
+| [Switzerland](https://en.wikipedia.org/wiki/Switzerland) | Visa required |
+| [Syria](https://en.wikipedia.org/wiki/Syria) | eVisa |
+| [Tajikistan](https://en.wikipedia.org/wiki/Tajikistan) | Visa not required (conditional) / eVisa | 14 days / 60 days |
+| [Tanzania](https://en.wikipedia.org/wiki/Tanzania) | eVisa / Visa on arrival | 90 days |
+| [Thailand](https://en.wikipedia.org/wiki/Thailand) | Visa not required | 60 days |
+| [Timor-Leste](https://en.wikipedia.org/wiki/Timor-Leste) | Visa on arrival | 30 days |
+| [Togo](https://en.wikipedia.org/wiki/Togo) | eVisa | 15 days |
+| [Tonga](https://en.wikipedia.org/wiki/Tonga) | Visa not required | 30 days |
+| [Trinidad and Tobago](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) | eVisa |
+| [Tunisia](https://en.wikipedia.org/wiki/Tunisia) | Visa not required | 90 days |
+| [Turkey](https://en.wikipedia.org/wiki/Turkey) | Visa not required | 90 days |
+| [Turkmenistan](https://en.wikipedia.org/wiki/Turkmenistan) | Visa required |
+| [Tuvalu](https://en.wikipedia.org/wiki/Tuvalu) | Visa on arrival | 1 month |
+| [Uganda](https://en.wikipedia.org/wiki/Uganda) | eVisa | 3 months |
+| [Ukraine](https://en.wikipedia.org/wiki/Ukraine) | eVisa | 30 days |
+| [United Arab Emirates](https://en.wikipedia.org/wiki/United_Arab_Emirates) | Visa not required | 90 days |
+| [United Kingdom and Crown dependencies](https://en.wikipedia.org/wiki/United_Kingdom) | Visa required |
+| [United States](https://en.wikipedia.org/wiki/United_States) | Visa required |
+| [Uruguay](https://en.wikipedia.org/wiki/Uruguay) | Visa required |
+| [Uzbekistan](https://en.wikipedia.org/wiki/Uzbekistan) | Visa not required | 30 days |
+| [Vanuatu](https://en.wikipedia.org/wiki/Vanuatu) | Visa not required | 30 days |
+| [Vatican City](https://en.wikipedia.org/wiki/Vatican_City) | Visa required |
+| [Venezuela](https://en.wikipedia.org/wiki/Venezuela) | eVisa |
+| [Vietnam](https://en.wikipedia.org/wiki/Vietnam) | eVisa |
+| [Yemen](https://en.wikipedia.org/wiki/Yemen) | Visa required |
+| [Zambia](https://en.wikipedia.org/wiki/Zambia) | Visa not required | 30 days |
+| [Zimbabwe](https://en.wikipedia.org/wiki/Zimbabwe) | eVisa / Visa on arrival | 1 month |

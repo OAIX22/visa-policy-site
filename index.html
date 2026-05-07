@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>签证政策查询 · 演示</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-grid" aria-hidden="true"></div>
+    <div class="bg-glow" aria-hidden="true"></div>
+
+    <main>
+      <header>
+        <h1>签证政策查询</h1>
+        <p class="subtitle">
+          面向<strong>持中国大陆普通护照</strong>居民的一般性出行参考；内置<strong>全球主要目的地国</strong>签证归类摘要。支持中/英/拼音及主要城市关键词。
+        </p>
+        <div class="disclaimer" role="note">
+          <strong>重要提示：</strong>本站内容为信息整理与产品演示，<strong>不构成签证或法律意见</strong>。政策随时变更，请以目的地国家或地区主管机关、驻华使领馆及出入境边防检查机关的<strong>最新官方公布</strong>为准。出行前请自行复核材料与停留条件。
+        </div>
+      </header>
+
+      <form class="search-row" id="search-form" autocomplete="off">
+        <label class="visually-hidden" for="q">搜索国家或城市</label>
+        <input
+          id="q"
+          name="q"
+          type="search"
+          placeholder="例如：泰国、Bangkok、riben、纽约…"
+          spellcheck="false"
+        />
+        <button type="submit" class="btn-primary" id="btn-search">搜索</button>
+      </form>
+      <p class="hint">
+        提示：内置库约 190+ 国/地区，共性政策依据外交部领事司框架、英文维基百科
+        Visa requirements for Chinese citizens 表（对中国普通护照）等公开信息整理；导入 Excel/CSV 时，若
+        <code>country_code</code> 与内置相同，则<strong>以导入内容为准并覆盖该条内置展示</strong>。
+      </p>
+
+      <div class="toolbar">
+        <button type="button" class="btn-ghost" id="btn-download-template">
+          下载 Excel 模板（CSV）
+        </button>
+        <button type="button" class="btn-ghost" id="btn-open-upload">导入 Excel / CSV</button>
+        <button type="button" class="btn-ghost" id="btn-export-custom">导出自定义库 JSON</button>
+        <button type="button" class="btn-ghost" id="btn-clear-custom">清空本机自定义</button>
+      </div>
+
+      <div id="msg" class="error" hidden></div>
+      <section class="results" id="results" aria-live="polite"></section>
+    </main>
+
+    <footer>
+      内置国家库通过 HTTP 加载 <code>data/visa-seed.json</code>；自定义导入仍保存在浏览器本机（localStorage）。
+    </footer>
+
+    <dialog id="dlg-upload" aria-labelledby="dlg-upload-title">
+      <div class="modal-body">
+        <h3 id="dlg-upload-title">导入数据</h3>
+        <p>
+          请使用与模板一致的表头。支持 <strong>.xlsx</strong> 与 <strong>.csv</strong>（UTF-8）。以
+          <code>country_code</code> 为键：<strong>同码覆盖本页内置数据</strong>，并覆盖本机此前导入的相同代码。
+        </p>
+        <div class="upload-zone">
+          <label for="file-import">
+            点击选择文件
+            <input id="file-import" type="file" accept=".xlsx,.xls,.csv" />
+          </label>
+          <p style="margin: 10px 0 0; font-size: 12px; color: var(--text-tertiary)">
+            列说明见 <code>template/签证政策导入模板说明.md</code>
+          </p>
+        </div>
+        <p id="upload-status" style="font-size: 13px; color: var(--text-secondary)"></p>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn-ghost" data-close>关闭</button>
+      </div>
+    </dialog>
+
+    <!-- SheetJS for .xlsx in browser -->
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+    <script src="./app.js" defer></script>
+  </body>
+</html>
