@@ -189,6 +189,7 @@ function parseWikiRows(text) {
 }
 
 function main() {
+  const today = new Date().toISOString().slice(0, 10);
   const countries = JSON.parse(fs.readFileSync(path.join(dataDir, "restcountries.json"), "utf8"));
   const byNorm = buildNameIndex(countries);
   const metaByCode = new Map();
@@ -222,11 +223,11 @@ function main() {
       policy_type: zhType,
       policy_summary: `对中国大陆普通护照，目的地侧通行要求多归纳为「${zhType}」。${stayLine}\n${WIKI_REF}`,
       official_url: "https://cs.mfa.gov.cn/",
-      last_verified: "2026-05-06",
+      last_verified: today,
     };
 
     if (OVERRIDES[code]) {
-      rec = { ...rec, ...OVERRIDES[code] };
+      rec = { ...rec, ...OVERRIDES[code], last_verified: OVERRIDES[code].last_verified ?? today };
     }
     out.push(rec);
   }

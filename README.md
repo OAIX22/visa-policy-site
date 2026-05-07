@@ -24,11 +24,16 @@ npx --yes serve .
 仓库已包含 `.github/workflows/regenerate-visa-seed.yml`：
 
 - **触发**：每天 **01:00 UTC**（约北京时间 **09:00**）自动执行；也可在 Actions 里 **Run workflow** 手动触发。  
-- **行为**：在仓库根目录执行 `node scripts/build-visa-seed.mjs`；若 `data/visa-seed.json` 相对上次有变化，则以 `github-actions[bot]` 提交并推送到默认分支。  
-- **说明**：当前脚本只读取仓库内的 `data/wiki-visa-table.txt` 与 `data/restcountries.json`，**不会自动联网爬维基**。若要「政策随维基表变」，需不定期把最新表格摘录更新进 `wiki-visa-table.txt` 再合并到 main；定时任务会把它编译进 `visa-seed.json`。  
+- **行为（与之前「维基表 + OVERRIDES」一致）**  
+  1. `node scripts/fetch-wiki-visa-table.mjs`：通过 **MediaWiki API** 拉取英文维基 [Visa requirements for Chinese citizens](https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens) 页面 HTML，解析主 `wikitable`，覆盖写入 `data/wiki-visa-table.txt`（须合规 **User-Agent**，见脚本内说明）。  
+  2. `node scripts/build-visa-seed.mjs`：用 `wiki-visa-table.txt` + `data/restcountries.json` 生成 `data/visa-seed.json`，并对脚本内 **OVERRIDES**（领事口径重点国）按 `country_code` 覆盖对应条目。  
+  3. 若 `wiki-visa-table.txt` 或 `visa-seed.json` 有变更，由 `github-actions[bot]` **commit + push** 到默认分支。  
+- **失败保护**：若维基 HTML 结构变化导致解析到的国家行 **少于 120 条**，fetch 脚本会 **退出失败且不覆盖** 原 `wiki-visa-table.txt`，避免清空数据。  
 - **仓库结构**：工作流假定 **Git 仓库根目录即本站点根目录**（与 `index.html`、`scripts/` 同级）。若本站放在 monorepo 子目录，请自行把 workflow 改为对应 `working-directory`。
 
 启用前请在 GitHub：**Settings → Actions → General**，确认允许 Actions，且 **Workflow permissions** 勾选 **Read and write**（以便 bot 能 `git push`）。
+
+**本地手动拉维基 + 生成**：`node scripts/fetch-wiki-visa-table.mjs && node scripts/build-visa-seed.mjs`
 
 ## Excel 数据模板
 
